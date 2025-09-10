@@ -1,4 +1,12 @@
 @layer primeng {
+    .app-layout {
+        display: flex;
+        min-height: 100vh;
+    }
+
+    .main-content {
+
+
     .p-button {
         font-family: 'Nunito Sans', sans-serif;
         font-weight: 700;
@@ -31,33 +39,33 @@
         }
 
         &.p-button-outlined {
-                background: transparent;
-                color: var(--primary-500);
-                border: 2px solid var(--primary-500);
-                box-shadow: none;
-                font-weight: 700;
-                font-family: 'Nunito Sans', sans-serif;
-                transition: background-color 0.2s, color 0.2s, border-color 0.2s;
+            background: transparent;
+            color: var(--primary-500);
+            border: 2px solid var(--primary-500);
+            box-shadow: none;
+            font-weight: 700;
+            font-family: 'Nunito Sans', sans-serif;
+            transition: background-color 0.2s, color 0.2s, border-color 0.2s;
 
-                &:hover {
-                    background: var(--primary-50);
-                    color: var(--primary-600);
-                    border-color: var(--primary-600);
-                }
-                &:active {
-                    background: var(--primary-100);
-                    color: var(--primary-700);
-                    border-color: var(--primary-700);
-                }
-                &:focus {
-                    box-shadow: none;
-                    outline: none;
-                }
-                &:disabled {
-                    color: #707070;
-                    border-color: #e6e6e5;
-                    background: transparent;
-                }
+            &:hover {
+                background: var(--primary-50);
+                color: var(--primary-600);
+                border-color: var(--primary-600);
+            }
+            &:active {
+                background: var(--primary-100);
+                color: var(--primary-700);
+                border-color: var(--primary-700);
+            }
+            &:focus {
+                box-shadow: none;
+                outline: none;
+            }
+            &:disabled {
+                color: #707070;
+                border-color: #e6e6e5;
+                background: transparent;
+            }
         }
 
         &.p-button-text {
@@ -66,4 +74,5 @@
             border: none;
         }
     }
+}
 }

@@ -1,0 +1,82 @@
+@layer primeng {
+  .dnv-sidenav {
+    width: 220px;
+    min-height: 100vh;
+    background-color: #0e2a55;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    padding: 1.5rem 0;
+
+    .logo {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-bottom: 3rem;
+      padding: 0 1.5rem;
+
+      img {
+        height: 32px;
+        width: 76px;
+      }
+    }
+
+    nav {
+      display: flex;
+      flex-direction: column;
+      padding: 0 0.75rem;
+    }
+
+    .grouping {
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+    }
+
+    .nav-button.p-button {
+      width: 100%;
+      height: 38px;
+      background: transparent;
+      border: none;
+      border-radius: 10px;
+      padding: 0 0.75rem;
+      opacity: 0.8;
+      display: flex;
+      align-items: center;
+      transition: all 0.2s ease;
+      color: #fff;
+      font-weight: 700;
+
+      .p-button-label {
+        color: #fff;
+        font-weight: 700;
+        font-size: 0.875rem;
+        margin-left: 0.75rem;
+      }
+
+      .p-button-icon {
+        color: #fff !important;
+        font-size: 1.25rem !important;
+        font-weight: 700;
+        margin-right: 0.5rem;
+      }
+
+      &:hover {
+        background: rgba(255, 255, 255, 0.08);
+        opacity: 1;
+      }
+
+      &.is-active {
+        background: rgba(255, 255, 255, 0.15);
+        opacity: 1;
+      }
+    }
+
+    tr {
+      width: calc(100% - 1.5rem);
+      border-top: 1px solid rgba(255, 255, 255, 0.2);
+      margin: 0.5rem 0;
+    }
+  }
+}
