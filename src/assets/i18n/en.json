@@ -1,0 +1,284 @@
+{
+  "actions": "Actions",
+  "actionsColumn": "Actions column",
+  "activeFilters": "Active Filters",
+  "all": "All",
+  "analytics": "Analytics",
+  "apply": "apply",
+  "apps": "More apps",
+  "appsExternal": "External Apps",
+  "ariaLabel": {
+    "breadcrumb": "Breadcrumb",
+    "sidebar": "Sidebar"
+  },
+  "asideNavigation": "Aside Navigation",
+  "audit": "audit",
+  "audits": "Audits",
+  "back": "Back",
+  "blank": "Blank",
+  "breadcrumb": {
+    "graphs": "Graphs",
+    "lists": "Lists"
+  },
+  "buttons": {
+    "toggle": {
+      "calendar": "Calendar",
+      "graphs": "Graphs",
+      "lists": "Lists",
+      "noResponse": "No response",
+      "response": "Response"
+    }
+  },
+  "calendar": {
+    "today": "Today"
+  },
+  "cancel": "Cancel",
+  "certificateMarkLanguages": {
+    "czeck": "Czeck",
+    "danish": "Danish",
+    "dutch": "Dutch",
+    "english": "English",
+    "estonian": "Estonian",
+    "finnish": "Finnish",
+    "french": "French",
+    "german": "German",
+    "italian": "Italian",
+    "portuguese": "Portuguese",
+    "spanish": "Spanish",
+    "swedish": "Swedish"
+  },
+  "certificates": "Certificates",
+  "certificatesBySite": {
+    "noDataNotification": "There are no records matching the filter conditions."
+  },
+  "city": "city",
+  "clear": "clear",
+  "clearFilters": "Clear filters",
+  "closeMenu": "Close menu",
+  "closeNotification": "Close notification",
+  "cobrowsing": {
+    "addNewMember": "Add new member",
+    "administrationPortal": "Administration Portal",
+    "administrationPortalDescription": "View and manage your customers portal",
+    "admins": "Admins ({{ total }})",
+    "allCompanies": "All companies",
+    "banner": "You are viewing this page as {{email}}",
+    "continue": "Continue",
+    "endSession": "End Session",
+    "manageMembers": "Manage members",
+    "members": "Members ({{ total }})",
+    "modal": {
+      "cancel": "No",
+      "confirm": "Yes",
+      "description": "Are you sure you want to end the session?",
+      "title": "Confirmation"
+    },
+    "selectAnotherCompany": "Select another company",
+    "selectCompany": "Select a company"
+  },
+  "columns": "columns",
+  "confirm": "Confirm",
+  "confirmAudit": "Confirm Audit",
+  "content": "Content",
+  "contracts": "Contracts",
+  "dataTable": "Data Table",
+  "default": "default",
+  "delete": "Delete",
+  "download": "Download",
+  "en": "English",
+  "endDate": "end date",
+  "eventActionsColumn": "Event actions column",
+  "eventActionsMenu": "Event actions menu",
+  "export": "export",
+  "exportToExcel": "Export to Excel",
+  "fileName": "File name",
+  "fileUploadStarted": "Upload in progress.",
+  "filters": "Filters",
+  "financials": "Financials",
+  "findings": "Findings",
+  "footer": {
+    "aboutUs": "About Us",
+    "copyright": "Copyright © DNV AS 2025",
+    "linkedin": "LinkedIn",
+    "privacyStatement": "Privacy Statement",
+    "termsOfUse": "Terms of Use"
+  },
+  "grid": {
+    "noDocuments": "No documents here yet",
+    "noDocumentsDetailedMessage": "It seems there are no documents available. You can wait until they're added or upload them yourself to get started.",
+    "addDocuments": "Add documents",
+    "noDataMatchesFilter": "No data matches your filters",
+    "noDataMatchesFilterDetailedMessage": "The current filters don't return any results. Adjust your filters and try again.",
+    "noData": "No data to display",
+    "noDataDetailedMessage": "Something went wrong while loading the data. Please try reloading the page or check back later."
+  },
+  "gridEvent": {
+    "addToCalendar": "Add to calendar",
+    "confirm": "Confirm",
+    "confirmed": "Confirmed",
+    "managePermissions": "Manage permissions",
+    "remove": "Remove",
+    "requestChanges": "Request changes",
+    "reschedule": "Reschedule",
+    "shareInvite": "Share invite",
+    "updatePlannedPaymentDate": "Update planned payment date",
+    "updateReferenceNumber": "Update reference number",
+    "viewPortalAs": "View portal as"
+  },
+  "help": "Help",
+  "home": "Home",
+  "info": "Info",
+  "it": "Italian",
+  "itemsPerPage": "Items per page",
+  "language": {
+    "en": "English",
+    "it": "Italian"
+  },
+  "languageSwitcher": "Language Switcher",
+  "linkTo": "Link to {{title}}",
+  "loading": "Loading...",
+  "location": "Country",
+  "lockFilters": "Lock Filters",
+  "logout": {
+    "description": "You have been logged out. We recommend that you close all browsers after logging out.",
+    "goBackButton": "Go back to login",
+    "goToDnvButton": "Go to DNV.com",
+    "title": "Logged out"
+  },
+  "majorCat": "CAT1 - Major",
+  "messages": "Messages",
+  "minorCat": "CAT2 - Minor",
+  "modifyColumnsSettings": "Modify Columns Settings",
+  "multiSelect": {
+    "overflowLabel": "{{count}} items selected"
+  },
+  "multiSelectDropdown": "Multi-select dropdown",
+  "multiselectOptions": "Multiselect Options",
+  "myProfile": "My Profile",
+  "navbar": {
+    "companyDetails": "Company details",
+    "language": "Language",
+    "logOut": "Log out",
+    "members": "Members",
+    "personalInformation": "Personal information",
+    "search": "What are you looking for?"
+  },
+  "navbarSearch": "Navbar Search and Button Section",
+  "navigateToId": "Navigate to id {{id}}",
+  "noDataAvailable": "no data available",
+  "notifications": "Notifications",
+  "observation": "Observation",
+  "openEventActionsMenu": "Open event actions menu",
+  "openMenu": "Open menu",
+  "opensInNewTab": "Opens in a new tab",
+  "or": "or",
+  "overview": "Overview",
+  "paginationMessage": "Showing {first} to {last} of {totalRecords} entries",
+  "profile": "Profile",
+  "redirect": "Redirect",
+  "removeFilter": "Remove Filter {{tagLabel}}",
+  "removeSavedFilter": "Remove saved filter {{tagLabel}}",
+  "reschedule": "Reschedule",
+  "reset": "Reset",
+  "saveFilters": "Save filters",
+  "saveFilterTag": "Save filter {{tagLabel}}",
+  "schedule": "Schedule",
+  "search": "Search",
+  "select": {
+    "dateRange": {
+      "choosePeriod": "Choose a time period",
+      "custom": "Custom date range",
+      "monthCurrent": "This Month",
+      "monthNext": "Upcoming Month",
+      "monthPrevious": "Last Month",
+      "rangeCustomLabel": "{{start}} to {{end}}",
+      "yearCurrent": "This Year",
+      "yearCustom": "This Year",
+      "yearNext": "Upcoming Year",
+      "yearPrevious": "Last Year"
+    },
+    "multiSelect": {
+      "companies": "All companies",
+      "empty": "No data",
+      "overflowLabel": "{{count}} items selected",
+      "services": "All services",
+      "statuses": "All statuses"
+    },
+    "treeSelect": {
+      "categories": "All Categories",
+      "companies": "All companies",
+      "empty": "No data",
+      "services": "All services",
+      "sites": "All sites"
+    }
+  },
+  "selectAllOptions": "Select all options",
+  "selected": "selected",
+  "selectFile": "Select file",
+  "selectFileDragDrop": "Select a file or drag and drop here",
+  "selectRowCheckbox": "Select row checkbox",
+  "selectRowsColumn": "Select rows column",
+  "sendRequest": "Send Request",
+  "service": "service",
+  "serviceChapterClause": "Service - Chapter - Clause",
+  "serviceNow": {
+    "error": "Something went wrong while loading the help tool.Please try re-opening Help or try again later.",
+    "help": "Help",
+    "requestChanges": "Request changes"
+  },
+  "sessionTimeoutModal": {
+    "description": "Your session has been expired due to inactivity.",
+    "goToLoginButton": "Go to login",
+    "secondDescription": "Please log in again to access the portal.",
+    "title": "Session timeout"
+  },
+  "settings": "Settings",
+  "site": "site",
+  "startDate": "start date",
+  "status": "status",
+  "supportAndContactTitle": "Support and contact",
+  "tabs": "Tabs",
+  "toDo": "To Do",
+  "toggleMenu": "Toggle menu",
+  "toggleSidebar": "Toggle Sidebar",
+  "toImprove": "Opportunity for improvement",
+  "total": "Total",
+  "trainings": "Trainings",
+  "type": "type",
+  "update": "Update",
+  "upload": "Upload",
+  "uploadError": "Upload failed",
+  "uploadHint": "File size no more than 10MB",
+  "uploadSuccess": "Upload successful",
+  "viewDetails": "View details",
+  "welcome": {
+    "accessDeniedDescription": "You don't have access to the customer portal, kindly connect with your company admin or DNV account manager",
+    "accessDeniedTitle": "Access denied",
+    "description": "You will be redirected to our Veracity platform for login/signup.",
+    "getStarted": "Get started",
+    "subdescription": "After login you will have access to the customer portal.",
+    "subtitle": "Customer portal",
+    "title": "Welcome to DNV"
+  },
+  "error": {
+    "loading": "Error loading {{entityType}} data",
+    "update": "Error updating {{entityType}} data",
+    "fail":{
+      "title": "{{entityType}} call Error",
+      "message": "{{entityType}} call failed. Please try again later"
+    },
+    "accessDenied": {
+      "title": "Access denied",
+      "message": "You don't have access to the customer portal, kindly connect with your company admin or DNV account manager"
+    },
+    "initialization": {
+      "title": "Failed to Load",
+      "message": "We could not load the application due to unexpected error. Please try again later."
+    }
+  },
+  "country":"country",
+  "exportDocument": {
+    "downloads": "Downloads",
+    "noActiveDownloads": "No active downloads"
+  }
+}

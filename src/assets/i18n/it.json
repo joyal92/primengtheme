@@ -1,0 +1,284 @@
+{
+  "actions": "Azioni",
+  "actionsColumn": "Colonna delle azioni",
+  "activeFilters": "Filtri attivi",
+  "all": "Tutto",
+  "analytics": "Reportistica",
+  "apply": "applicare",
+  "apps": "Altre applicazioni",
+  "appsExternal": "App esterne",
+  "ariaLabel": {
+    "breadcrumb": "Pangrattato",
+    "sidebar": "Barra laterale"
+  },
+  "asideNavigation": "Navigazione a parte",
+  "audit": "verifiche",
+  "audits": "Audits",
+  "back": "Indietro",
+  "blank": "Vuoto",
+  "breadcrumb": {
+    "graphs": "Grafici",
+    "lists": "Liste"
+  },
+  "buttons": {
+    "toggle": {
+      "calendar": "Calendario",
+      "graphs": "Grafici",
+      "lists": "Liste",
+      "noResponse": "Nessuna risposta",
+      "response": "Risposta"
+    }
+  },
+  "calendar": {
+    "today": "Oggi"
+  },
+  "cancel": "Annulla",
+  "certificateMarkLanguages": {
+    "czeck": "Ceco",
+    "danish": "Danese",
+    "dutch": "Olandese",
+    "english": "Inglese",
+    "estonian": "Estone",
+    "finnish": "Finlandese",
+    "french": "Francese",
+    "german": "Tedesco",
+    "italian": "Italiano",
+    "portuguese": "Portoghese",
+    "spanish": "Spagnolo",
+    "swedish": "Svedese"
+  },
+  "certificates": "Certificati",
+  "certificatesBySite": {
+    "noDataNotification": "Non ci sono risultati per questa ricerca"
+  },
+  "city": "città",
+  "clear": "cancella",
+  "clearFilters": "Pulisci i filtri",
+  "closeMenu": "Chiudi menu",
+  "closeNotification": "Chiudi notifica",
+  "cobrowsing": {
+    "addNewMember": "Aggiungi nuovo membro",
+    "administrationPortal": "Portale di amministrazione",
+    "administrationPortalDescription": "Visualizza e gestisci il portale dei tuoi clienti",
+    "admins": "Amministratori ({{ total }})",
+    "allCompanies": "Tutte le aziende",
+    "banner": "Stai visualizzando questa pagina come {{email}}",
+    "continue": "Continuare",
+    "endSession": "Fine Sessione",
+    "manageMembers": "Gestisci utenti",
+    "members": "Utenti ({{ total }})",
+    "modal": {
+      "cancel": "No",
+      "confirm": "Si",
+      "description": "Sei sicuro di voler terminare la sessione?",
+      "title": "Conferma"
+    },
+    "selectAnotherCompany": "Seleziona un'altra azienda",
+    "selectCompany": "Seleziona un'azienda"
+  },
+  "columns": "colonne",
+  "confirm": "Conferma",
+  "confirmAudit": "Conferma Verifica",
+  "content": "Contenuto",
+  "contracts": "Contratti",
+  "dataTable": "Tabella dati",
+  "default": "predefinita",
+  "delete": "Cancellare",
+  "download": "Scarica",
+  "en": "Inglese",
+  "endDate": "data di fine",
+  "eventActionsColumn": "Colonna azioni evento",
+  "eventActionsMenu": "Menu azioni evento",
+  "export": "esporta",
+  "exportToExcel": "Esporta in Excel",
+  "fileName": "Nome file",
+  "fileUploadStarted": "Caricamento in corso.",
+  "filters": "Filtri",
+  "financials": "Fatture",
+  "findings": "Findings",
+  "footer": {
+    "aboutUs": "Chi siamo",
+    "copyright": "Copyright © DNV AS 2025",
+    "linkedin": "LinkedIn",
+    "privacyStatement": "Informativa sulla privacy",
+    "termsOfUse": "Termini di utilizzo"
+  },
+  "grid": {
+    "noDocuments": "Nessun documento presente",
+    "noDocumentsDetailedMessage": "Sembra che non ci siano documenti disponibili. Puoi attendere che vengano aggiunti oppure caricarli tu stesso per iniziare.",
+    "addDocuments": "Aggiungi documenti",
+    "noDataMatchesFilter": "Nessun dato corrisponde ai filtri",
+    "noDataMatchesFilterDetailedMessage": "I filtri attuali non restituiscono risultati. Modifica i filtri e riprova.",
+    "noData": "Nessun dato da visualizzare",
+    "noDataDetailedMessage": "Si è verificato un errore durante il caricamento dei dati. Prova a ricaricare la pagina o riprova più tardi."
+  },
+  "gridEvent": {
+    "addToCalendar": "Aggiungi al calendario",
+    "confirm": "Confermare",
+    "confirmed": "Confermato",
+    "managePermissions": "Gestisci permessi",
+    "remove": "Rimuovere",
+    "requestChanges": "Richiedere modifiche",
+    "reschedule": "Ripianifica",
+    "shareInvite": "Condidi l'invito",
+    "updatePlannedPaymentDate": "Aggiorna la data di pagamento pianificata",
+    "updateReferenceNumber": "Aggiorna il numero di riferimento",
+    "viewPortalAs": "Visualizza il portale come"
+  },
+  "help": "Supporto",
+  "home": "Home",
+  "info": "Info",
+  "it": "Italiano",
+  "itemsPerPage": "Righe per pagina",
+  "language": {
+    "en": "Inglese",
+    "it": "Italiano"
+  },
+  "languageSwitcher": "Commutatore di lingua",
+  "linkTo": "Link a {{title}}",
+  "loading": "Caricamento...",
+  "location": "Paese",
+  "lockFilters": "Filtri di blocco",
+  "logout": {
+    "description": "Sei stato disconnesso. Ti consigliamo di chiudere tutti i browser dopo aver effettuato il logout.",
+    "goBackButton": "Torna al login",
+    "goToDnvButton": "Vai su DNV.com",
+    "title": "Disconnesso"
+  },
+  "majorCat": "CAT1 - Major",
+  "messages": "Messaggi",
+  "minorCat": "CAT2 - Minor",
+  "modifyColumnsSettings": "Modifica impostazioni colonne",
+  "multiSelect": {
+    "overflowLabel": "{{count}} elementi selezionati"
+  },
+  "multiSelectDropdown": "Menu a discesa a selezione multipla",
+  "multiselectOptions": "Opzioni di selezione multipla",
+  "myProfile": "Il mio profilo",
+  "navbar": {
+    "companyDetails": "Dettagli dell'azienda",
+    "language": "Lingua",
+    "logOut": "Esci",
+    "members": "Utenti",
+    "personalInformation": "Informazioni personali",
+    "search": "Che cosa sta cercando?"
+  },
+  "navbarSearch": "Sezione Ricerca e Pulsanti della barra di navigazione",
+  "navigateToId": "Naviga a id {{id}}",
+  "noDataAvailable": "nessun dato disponibile",
+  "notifications": "Notifiche",
+  "observation": "Osservazione",
+  "openEventActionsMenu": "Apri menu azioni evento",
+  "openMenu": "Apri menu",
+  "opensInNewTab": "Si apre in una nuova scheda",
+  "or": "o",
+  "overview": "Panoramica",
+  "paginationMessage": "Visualizzazione da {first} a {last} di {totalRecords} righe",
+  "profile": "Profilo",
+  "redirect": "Reindirizzamento",
+  "removeFilter": "Rimuovi filtro salvato {{tagLabel}}",
+  "removeSavedFilter": "Rimuovi filtro salva {{tagLabel}}",
+  "reschedule": "Ripianificazione",
+  "reset": "Resetta",
+  "saveFilters": "Salva i filtri",
+  "saveFilterTag": "Salva filtro {{tagLabel}}",
+  "schedule": "Pianificazione",
+  "search": "Ricerca",
+  "select": {
+    "dateRange": {
+      "choosePeriod": "Scegli un periodo di tempo",
+      "custom": "Intervallo di date personalizzato",
+      "monthCurrent": "Mese corrente",
+      "monthNext": "Prossimo mese",
+      "monthPrevious": "Mese precedente",
+      "rangeCustomLabel": "{{start}} alla {{end}}",
+      "yearCurrent": "Anno corrente",
+      "yearCustom": "Anno corrente",
+      "yearNext": "Prossimo anno",
+      "yearPrevious": "Anno precedente"
+    },
+    "multiSelect": {
+      "companies": "Tutte le aziende",
+      "empty": "Nessun dato",
+      "overflowLabel": "{{count}} elementi selezionati",
+      "services": "Tutti i servizi",
+      "statuses": "Tutti gli stati"
+    },
+    "treeSelect": {
+      "categories": "Tutte le categorie",
+      "companies": "Tutte le aziende",
+      "empty": "Nessun dato",
+      "services": "Tutti i servizi",
+      "sites": "Tutti i siti"
+    }
+  },
+  "selectAllOptions": "Seleziona tutte le opzioni",
+  "selected": "selezionato",
+  "selectFile": "Seleziona un file",
+  "selectFileDragDrop": "Seleziona o trascina qui un file",
+  "selectRowCheckbox": "Seleziona casella di controllo della riga",
+  "selectRowsColumn": "Seleziona colonna delle righe",
+  "sendRequest": "Invia richiesta",
+  "service": "servizio",
+  "serviceChapterClause": "Servizio - Capitolo - Clausola",
+  "serviceNow": {
+    "error": "Qualcosa è andato storto durante il caricamento dello strumento di Supporto. Si prega di riprovare ad aprire l'Supporto o riprovare più tardi.",
+    "help": "Supporto",
+    "requestChanges": "Richiedere modifiche"
+  },
+  "sessionTimeoutModal": {
+    "description": "La sessione è scaduta per inattività.",
+    "goToLoginButton": "Vai al login",
+    "secondDescription": "Effettua nuovamente l'accesso per accedere al portale.",
+    "title": "Timeout della sessione"
+  },
+  "settings": "Impostazioni",
+  "site": "sito",
+  "startDate": "data di inizio",
+  "status": "stato",
+  "supportAndContactTitle": "Supporto e contatti",
+  "tabs": "Schede",
+  "toDo": "Da Fare",
+  "toggleMenu": "Cambia menu",
+  "toggleSidebar": "Attiva/Disattiva Barra Laterale",
+  "toImprove": "Opportunità di miglioramento",
+  "total": "Totale",
+  "trainings": "Formazione",
+  "type": "tipo",
+  "update": "Aggiornamento",
+  "upload": "Carica",
+  "uploadError": "Caricamento fallito",
+  "uploadHint": "Dimensione del file non superiore a 10MB",
+  "uploadSuccess": "Caricamento riuscito",
+  "viewDetails": "Visualizza dettagli",
+  "welcome": {
+    "accessDeniedDescription": "Non hai accesso al portale clienti, contatta l'amministratore della tua azienda o l'account manager DNV",
+    "accessDeniedTitle": "Accesso negato",
+    "description": "Verrai reindirizzato alla nostra piattaforma Veracity per il login/registrazione. Dopo il login, avrai accesso al portale clienti.",
+    "getStarted": "Inizia",
+    "subdescription": "Dopo aver effettuato l'accesso avrai accesso al portale clienti.",
+    "subtitle": "Portale clienti",
+    "title": "Benvenuto/a di DNV"
+  },
+  "error": {
+    "loading": "Errore durante il caricamento {{entityType}} dati",
+    "update": "Errore durante l'aggiornamento{{entityType}} dati",
+    "fail": {
+      "title": "{{entityType}} chiamata Errore",
+      "message": "{{entityType}} chiamata non riuscita. Riprova più tardi."
+    },
+    "accessDenied": {
+      "title": "Accesso negato",
+      "message": "Non hai accesso al portale clienti, contatta l'amministratore della tua azienda o l'account manager DNV"
+    },
+    "initialization": {
+      "title": "Caricamento non riuscito",
+      "message": "Non siamo riusciti a caricare l'applicazione a causa di un errore imprevisto. Riprova più tardi."
+    }
+  },
+   "country": "paese",
+   "exportDocument": {
+    "downloads": "Download",
+    "noActiveDownloads": "Nessun download attivo"
+  }
+}
