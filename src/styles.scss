@@ -17,6 +17,7 @@ html {
   font-size: 14px;
   font-family: 'Nunito Sans', sans-serif;
 }
+@import 'primeicons/primeicons.css';
 
 @import './app/base';
-@import './app/components/sidebar/sidebar.component.scss';
+@import './app/components/app.components.scss';

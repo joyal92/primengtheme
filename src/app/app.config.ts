@@ -20,7 +20,8 @@ export const appConfig: ApplicationConfig = {
         preset: MyPreset,
         options: {
           cssLayer: {
-            name: 'primeng'
+            name: 'primeng',
+              order: 'primeng, app-components'
           },
         },
       },
