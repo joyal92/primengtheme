@@ -14,12 +14,12 @@ export const appConfig: ApplicationConfig = {
     providePrimeNG({
         theme: {
             preset: MyPreset,
-            options: {
-                cssLayer: {
-                    name: 'primeng',
-                    order: 'primeng, app-styles'
-                }
-            }
+            // options: {
+            //     cssLayer: {
+            //         name: 'primeng',
+            //         order: 'primeng, app-styles'
+            //     }
+            // }
         }
     })
   ]
