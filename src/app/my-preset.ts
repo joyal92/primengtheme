@@ -16,48 +16,61 @@ const MyPreset = definePreset(Aura, {
             900: '#060D22'
         }
     },
-    // button: {
-    //     root: {
-    //         style: {
-    //             background: '{primary.500}',
-    //             color: '#ffffff',
-    //             border: 'none',
-    //             fontFamily: "'Nunito Sans', sans-serif",
-    //             fontSize: 'var(--dnv-font-button-l)',
-    //             fontWeight: '700',
-    //             lineHeight: '20px',
-    //             letterSpacing: '0',
-    //             padding: '0.571rem 1.143rem',
-    //             borderRadius: '10px',
-    //             cursor: 'pointer'
-    //         },
-    //         hover: {
-    //             background: '{primary.600}',
-    //             color: '#ffffff',
-    //             borderColor: 'transparent'
-    //         },
-    //         active: {
-    //             background: '{primary.700}',
-    //             color: '#ffffff',
-    //             borderColor: 'transparent'
-    //         },
-    //         focus: {
-    //             outlineColor: 'transparent',
-    //             boxShadow: 'none'
-    //         },
-    //         disabled: {
-    //             background: '#e6e6e5',
-    //             color: '#707070',
-    //             borderColor: 'transparent',
-    //             cursor: 'default'
-    //         }
-    //     },
-    //     label: {
-    //         style: {
-    //             fontWeight: '700'
-    //         }
-    //     }
-    // }
+    button: {
+        root: {
+            style: {
+                background: '{primary.500}',
+                color: '#ffffff',
+                border: 'none',
+                fontFamily: "'Nunito Sans', sans-serif",
+                fontSize: 'var(--dnv-font-button-l)',
+                fontWeight: '700',
+                lineHeight: '20px',
+                letterSpacing: '0',
+                padding: '0.571rem 1.143rem',
+                borderRadius: '10px',
+                cursor: 'pointer'
+            },
+            hover: {
+                background: '{primary.600}',
+                color: '#ffffff',
+                borderColor: 'transparent'
+            },
+            active: {
+                background: '{primary.700}',
+                color: '#ffffff',
+                borderColor: 'transparent'
+            },
+            focus: {
+                outlineColor: 'transparent',
+                boxShadow: 'none'
+            },
+            disabled: {
+                background: '#e6e6e5',
+                color: '#707070',
+                borderColor: 'transparent',
+                cursor: 'default'
+            }
+        },
+        label: {
+            style: {
+                fontWeight: '700'
+            }
+        }
+    },
+    table:{
+        root: {
+              style: {
+        thead:{
+            tr:{
+                background: '{primary.100}',
+            }
+            
+        }
+    }
+    }
+    },
+    
 });
 
 export default MyPreset;
