@@ -1,5 +1,6 @@
 import { definePreset } from '@primeuix/themes';
 import Aura from '@primeuix/themes/aura';
+import checkbox from '@primeuix/themes/aura/checkbox';
 
 const MyPreset = definePreset(Aura, {
     semantic: {
@@ -19,8 +20,8 @@ const MyPreset = definePreset(Aura, {
     button: {
         root: {
             style: {
-                background: '{primary.500}',
-                color: '#ffffff',
+                background: '{primary.900}',
+                color: 'black',
                 border: 'none',
                 fontFamily: "'Nunito Sans', sans-serif",
                 fontSize: 'var(--dnv-font-button-l)',
@@ -61,6 +62,8 @@ const MyPreset = definePreset(Aura, {
     table:{
         root: {
               style: {
+                    display: 'grid',
+                    gap: '5rem',
         thead:{
             tr:{
                 background: '{primary.100}',
@@ -70,6 +73,15 @@ const MyPreset = definePreset(Aura, {
     }
     }
     },
+   
+    checkbox:{
+        
+           
+                width:'24px',
+           
+
+
+    }
     
 });
 
